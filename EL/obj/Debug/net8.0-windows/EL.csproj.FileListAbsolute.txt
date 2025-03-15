@@ -1,0 +1,16 @@
+C:\ProyectoDS\ControlBiblioteca\EL\bin\Debug\net8.0-windows\EL.exe
+C:\ProyectoDS\ControlBiblioteca\EL\bin\Debug\net8.0-windows\EL.deps.json
+C:\ProyectoDS\ControlBiblioteca\EL\bin\Debug\net8.0-windows\EL.runtimeconfig.json
+C:\ProyectoDS\ControlBiblioteca\EL\bin\Debug\net8.0-windows\EL.dll
+C:\ProyectoDS\ControlBiblioteca\EL\bin\Debug\net8.0-windows\EL.pdb
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.Form1.resources
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.csproj.GenerateResource.cache
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.AssemblyInfoInputs.cache
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.AssemblyInfo.cs
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.csproj.CoreCompileInputs.cache
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.dll
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\refint\EL.dll
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.pdb
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\EL.genruntimeconfig.cache
+C:\ProyectoDS\ControlBiblioteca\EL\obj\Debug\net8.0-windows\ref\EL.dll

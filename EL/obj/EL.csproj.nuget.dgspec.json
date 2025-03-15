@@ -1,36 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\EL\\EL.csproj": {}
+    "C:\\ProyectoDS2\\ControlBiblioteca\\EL\\EL.csproj": {}
   },
   "projects": {
-    "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\EL\\EL.csproj": {
+    "C:\\ProyectoDS2\\ControlBiblioteca\\EL\\EL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\EL\\EL.csproj",
+        "projectUniqueName": "C:\\ProyectoDS2\\ControlBiblioteca\\EL\\EL.csproj",
         "projectName": "EL",
-        "projectPath": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\EL\\EL.csproj",
-        "packagesPath": "C:\\Users\\winte\\.nuget\\packages\\",
-        "outputPath": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\EL\\obj\\",
+        "projectPath": "C:\\ProyectoDS2\\ControlBiblioteca\\EL\\EL.csproj",
+        "packagesPath": "C:\\Users\\emartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectoDS2\\ControlBiblioteca\\EL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\winte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\emartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net8.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
         },
@@ -43,12 +39,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -63,9 +58,12 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
