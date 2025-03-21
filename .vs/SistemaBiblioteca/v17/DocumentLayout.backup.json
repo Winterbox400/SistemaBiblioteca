@@ -5,22 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{71BC8F9C-B944-4F15-ADD2-5B10B4F49A63}|DAO\\DAO.csproj|c:\\winterbox400\\proyectosserios\\sistemabiblioteca\\dao\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BC8F9C-B944-4F15-ADD2-5B10B4F49A63}|DAO\\DAO.csproj|solutionrelative:dao\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BC8F9C-B944-4F15-ADD2-5B10B4F49A63}|DAO\\DAO.csproj|c:\\winterbox400\\proyectosserios\\sistemabiblioteca\\dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71BC8F9C-B944-4F15-ADD2-5B10B4F49A63}|DAO\\DAO.csproj|solutionrelative:dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|c:\\winterbox400\\proyectosserios\\sistemabiblioteca\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|c:\\winterbox400\\proyectosserios\\sistemabiblioteca\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|solutionrelative:gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49A52B58-099E-4E96-BDDB-DE554F3115EB}|BLL\\BLL.csproj|c:\\winterbox400\\proyectosserios\\sistemabiblioteca\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{49A52B58-099E-4E96-BDDB-DE554F3115EB}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,59 +24,10 @@
               "RelativeDocumentMoniker": "DAO\\Connection.cs",
               "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\DAO\\Connection.cs",
               "RelativeToolTip": "DAO\\Connection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T06:07:48.468Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GUI.csproj",
-              "DocumentMoniker": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\GUI.csproj",
-              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
-              "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\GUI.csproj",
-              "RelativeToolTip": "GUI\\GUI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T20:32:49.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BLL.csproj",
-              "DocumentMoniker": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\BLL\\BLL.csproj",
-              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
-              "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\BLL\\BLL.csproj",
-              "RelativeToolTip": "BLL\\BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T20:32:24.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DAO.csproj",
-              "DocumentMoniker": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\DAO\\DAO.csproj",
-              "RelativeDocumentMoniker": "DAO\\DAO.csproj",
-              "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\DAO\\DAO.csproj",
-              "RelativeToolTip": "DAO\\DAO.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T20:31:50.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\Form1.cs",
-              "RelativeDocumentMoniker": "GUI\\Form1.cs",
-              "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GUI\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T20:27:45.279Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -9,12 +9,14 @@ namespace DAO
 {
     public class Connection
     {
+        //Propiedades para realizar la conexion
         private readonly static string Server = "WINTERBOX400\\SQL2022";
         private readonly static string Database = "BD_ControlBiblioteca";
         private readonly static string User = "sa";
         private readonly static string Password = "1234";
         private readonly string connectionString = $"Server={Server};Database={Database};User Id={User};Password={Password};";
 
+        //Clase para obtener la conexion
         public async Task<SqlConnection> GetConexionAsync()
         {
             try
