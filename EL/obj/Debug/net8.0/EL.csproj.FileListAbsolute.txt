@@ -1,0 +1,12 @@
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\bin\Debug\net8.0\EL.deps.json
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\bin\Debug\net8.0\EL.dll
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\bin\Debug\net8.0\EL.pdb
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\EL.GeneratedMSBuildEditorConfig.editorconfig
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\EL.AssemblyInfoInputs.cache
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\EL.AssemblyInfo.cs
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\EL.csproj.CoreCompileInputs.cache
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\EL.sourcelink.json
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\EL.dll
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\refint\EL.dll
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\EL.pdb
+C:\winterbox400\ProyectosSerios\SistemaBiblioteca\EL\obj\Debug\net8.0\ref\EL.dll

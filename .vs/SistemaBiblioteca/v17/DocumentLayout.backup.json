@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|c:\\winterbox400\\proyectosserios\\sistemabiblioteca\\gui\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|c:\\winterbox400\\proyectosserios\\sistemabiblioteca\\gui\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|c:\\winterbox400\\proyectosserios\\sistemabiblioteca\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D279D8AD-7739-4E26-975E-801F749FD656}|GUI\\GUI.csproj|solutionrelative:gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUI",
+              "DocumentMoniker": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
+              "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\GUI.csproj",
+              "RelativeToolTip": "GUI\\GUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T07:09:37.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Login.cs",
+              "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\Forms\\Login.cs*",
+              "RelativeToolTip": "GUI\\Forms\\Login.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:17:45.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Login.cs",
+              "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\Forms\\Login.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "GUI\\Forms\\Login.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:17:25.154Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
