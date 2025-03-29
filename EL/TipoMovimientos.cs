@@ -9,12 +9,8 @@ namespace EL
 {
     public class TipoMovimientos
     {
-        [Key]
         public int IdTipoMovimiento { get; set; }
-        [Required]
-        [MaxLength(10)]
-        public string Tipo { get; set; } = string.Empty;
-        [Required]
-        public bool Activo { get; set; } = true;
+        public string Tipo { get; set; }
+        public bool Activo { get; set; }
     }
 }

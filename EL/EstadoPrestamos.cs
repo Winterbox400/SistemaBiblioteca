@@ -9,12 +9,8 @@ namespace EL
 {
     internal class EstadoPrestamos
     {
-        [Key]
         public int IdEstadoPrestamo { get; set; }
-        [Required]
-        [MaxLength(10)]
-        public string Estado { get; set; } = string.Empty;
-        [Required]
-        public bool Activo { get; set; } = true;
+        public string Estado { get; set; }
+        public bool Activo { get; set; }
     }
 }

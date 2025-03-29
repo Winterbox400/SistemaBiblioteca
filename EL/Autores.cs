@@ -9,12 +9,8 @@ namespace EL
 {
     public class Autores
     {
-        [Key]
         public int IdAutor { get; set; }
-        [Required]
-        [MaxLength(100)]
-        public string Nombre { get; set; } = string.Empty;
-        [Required]
-        public bool Activo { get; set; } = true;
+        public string Nombre { get; set; }
+        public bool Activo { get; set; }
     }
 }

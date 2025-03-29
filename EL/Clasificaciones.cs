@@ -11,10 +11,7 @@ namespace EL
     {
         [Key]
         public int IdClasificacion { get; set; }
-        [Required]
-        [MaxLength(100)]
-        public string Clasificacion { get; set; } = string.Empty;
-        [Required]
-        public bool Activo { get; set; } = true;
+        public string Clasificacion { get; set; }
+        public bool Activo { get; set; }
     }
 }

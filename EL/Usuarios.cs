@@ -10,28 +10,15 @@ namespace EL
 {
     public class Usuarios
     {
-        [Key]
         public int IdUsuario { get; set; }
-        [Required]
-        [MaxLength(50)]
-        public string Nombre { get; set; } = string.Empty;
-        [Required]
-        [MaxLength(50)]
-        public string Nametag { get; set; } = string.Empty;
-        [Required]
-        [MaxLength(256)]
-        private byte[] Contrasena { get; set; }  //verificar este campo
-        [Required]
+        public string Nombre { get; set; }
+        public string Nametag { get; set; } 
+        private byte[] Contrasena { get; set; } 
         public int IdRol { get; set; }
-        [Required]
-        public bool Activo { get; set; } = true;
-        [Required]
+        public bool Activo { get; set; }
         public int IdUsuarioRegistra { get; set; }
-        [Required]
-        public DateTime FechaRegistro { get; set; } = DateTime.Now;
-        [Required]
+        public DateTime FechaRegistro { get; set; }
         public int IdUsuarioActualiza { get; set; }
-        [Required]
-        public DateTime FechaActualizacion { get; set; } = DateTime.Now;
+        public DateTime FechaActualizacion { get; set; }
     }
 }

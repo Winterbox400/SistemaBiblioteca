@@ -9,12 +9,8 @@ namespace EL
 {
     internal class ConceptoMovimientos
     {
-        [Key]
         public int IdConceptoMovimiento { get; set; }
-        [Required]
-        [MaxLength(50)]
-        public string Concepto { get; set; } = string.Empty;
-        [Required]
-        public bool Activo { get; set; } = true;
+        public string Concepto { get; set; }
+        public bool Activo { get; set; }
     }
 }

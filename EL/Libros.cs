@@ -9,34 +9,18 @@ namespace EL
 {
     public class Libros
     {
-        [Key]
         public int IdLibro { get; set; }
-        [Required]
-        [MaxLength(100)]
-        public string Titulo { get; set; } = string.Empty;
-        [Required]
+        public string Titulo { get; set; }
         public int IdAutor { get; set; }
-        [Required]
         public int IdEditorial { get; set; }
-        [Required]
         public DateTime FechaPublicacion { get; set; }
-        [Required]
         public int IdClasificacion { get; set; }
-        [Required]
-        [MaxLength(20)]
-        public string ISBN { get; set; } = string.Empty; // El Valor único lo administra la BD
-        [Required]
-        [MaxLength(20)]
-        public string Ubicacion { get; set; } = string.Empty;
-        [Required]
+        public string ISBN { get; set; }
+        public string Ubicacion { get; set; }
         public bool Activo { get; set; } = true;
-        [Required]
         public int IdUsuarioRegistra { get; set; }
-        [Required]
-        public DateTime FechaRegistro { get; set; } = DateTime.Now;
-        [Required]
+        public DateTime FechaRegistro { get; set; }
         public int IdUsuarioActualiza { get; set; }
-        [Required]
-        public DateTime FechaActualizacion { get; set; } = DateTime.Now;
+        public DateTime FechaActualizacion { get; set; }
     }
 }

@@ -9,34 +9,17 @@ namespace EL
 {
     internal class Clientes
     {
-        [Key]
         public int IdCliente { get; set; }
-        [Required]
-        [MaxLength(50)]
-        public string Nombre { get; set; } = string.Empty;
-        [Required]
-        [MaxLength(50)]
-        public string Correo { get; set; } = string.Empty;
-        [Required]
-        [MaxLength(20)]
-        public string Telefono { get; set; } = string.Empty;
-        [Required]
-        [MaxLength(20)]
-        public string Cedula { get; set; } = string.Empty;
-        [Required]
-        [MaxLength(200)]
-        public string Direccion { get; set; } = string.Empty;
-        [Required]
-        public bool DisponibilidadPrestamo { get; set; } = true; //Si es 1 puede prestar Libros
-        [Required]
+        public string Nombre { get; set; }
+        public string Correo { get; set; }
+        public string Telefono { get; set; }
+        public string Cedula { get; set; }
+        public string Direccion { get; set; }
+        public bool DisponibilidadPrestamo { get; set; }//Si es 1 puede prestar Libros
         public bool Activo { get; set; } = true;
-        [Required]
         public int IdUsuarioRegistra { get; set; }
-        [Required]
-        public DateTime FechaRegistro { get; set; } = DateTime.Now;
-        [Required]
+        public DateTime FechaRegistro { get; set; }
         public int IdUsuarioActualiza { get; set; }
-        [Required]
-        public DateTime FechaActualizacion { get; set; } = DateTime.Now;
+        public DateTime FechaActualizacion { get; set; }
     }
 }

@@ -9,13 +9,9 @@ namespace EL
 {
     internal class DetalleMovimientos
     {
-        [Key]
         public int IdDetalleMovimiento { get; set; }
-        [Required]
         public int IdLibro { get; set; }
-        [Required]
         public int IdMovimiento { get; set; }
-        [Required]
         public int Cantidad { get; set; } 
     }
 }

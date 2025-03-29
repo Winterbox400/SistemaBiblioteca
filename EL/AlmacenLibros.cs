@@ -9,25 +9,18 @@ namespace EL
 {
     public class AlmacenLibros
     {
-        [Key]
         public int IdAlmacenLibro { get; set; }
-        [Required]
         public int IdLibro { get; set; }
-        [Required]
         public int IdSucursal { get; set; }
-        [Required]
-        public int StockTotal { get; set; } = 0;
-        [Required]
-        public int StockDisponible { get; set; } = 0;
-        [Required]
-        public bool Activo { get; set; } = true;
-        [Required]
+        public int StockTotal { get; set; }
+        public int StockDisponible { get; set; }
+        public bool Activo { get; set;}
         public int IdUsuarioRegistra { get; set; }
-        [Required]
-        public DateTime FechaRegistro { get; set; } = DateTime.Now;
-        [Required]
+        
+        public DateTime FechaRegistro { get; set; }
+        
         public int IdUsuarioActualiza { get; set; }
-        [Required]
-        public DateTime FechaActualizacion { get; set; } = DateTime.Now;
+ 
+        public DateTime FechaActualizacion { get; set; }
     }
 }

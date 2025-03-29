@@ -9,12 +9,8 @@ namespace EL
 {
     public class Roles
     {
-        [Key]
         public int IdRoles { get; set; }
-        [Required]
-        [MaxLength(30)]
-        public string Rol { get; set; } = string.Empty;
-        [Required]
-        public bool Activo { get; set; } = true;
+        public string Rol { get; set; }
+        public bool Activo { get; set; }
     }
 }

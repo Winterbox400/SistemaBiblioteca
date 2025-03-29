@@ -9,11 +9,8 @@ namespace EL
 {
     public class UsuariosSucursales
     {
-        [Key]
         public int IdUsuarioSucursal { get; set; }
-        [Required]
         public int IdUsuario { get; set; }
-        [Required]
         public int IdSucursal { get; set; }
     }
 }
