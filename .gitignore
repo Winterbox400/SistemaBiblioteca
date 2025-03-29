@@ -1,0 +1,20 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+*.bin
+*.cache
+*.dtbcache.v2
+*.futdcache.v2
+*.AssemblyReference.cache
+*.backup.json
+
+# Archivos de compilación
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Archivos de NuGet
+project.assets.json
+project.nuget.cache
+
