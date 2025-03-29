@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GUI",
+              "Title": "GUI.csproj",
               "DocumentMoniker": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\GUI.csproj",
               "RelativeDocumentMoniker": "GUI\\GUI.csproj",
               "ToolTip": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\GUI\\GUI.csproj",
               "RelativeToolTip": "GUI\\GUI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T07:09:37.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T07:09:37.221Z"
             },
             {
               "$type": "Document",

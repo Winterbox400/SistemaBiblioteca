@@ -1688,9 +1688,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\DAO\\DAO.csproj",
-      "projectName": "DAO",
-      "projectPath": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\DAO\\DAO.csproj",
+      "projectUniqueName": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\DAO\\DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\DAO\\DAL.csproj",
       "packagesPath": "C:\\Users\\winte\\.nuget\\packages\\",
       "outputPath": "C:\\winterbox400\\ProyectosSerios\\SistemaBiblioteca\\DAO\\obj\\",
       "projectStyle": "PackageReference",
