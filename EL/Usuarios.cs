@@ -13,7 +13,7 @@ namespace EL
         public int IdUsuario { get; set; }
         public string Nombre { get; set; }
         public string Nametag { get; set; } 
-        private byte[] Contrasena { get; set; } 
+        public byte[] Contraseña { get; set; } 
         public int IdRol { get; set; }
         public bool Activo { get; set; }
         public int IdUsuarioRegistra { get; set; }
